@@ -3,7 +3,7 @@ Official implementation of WaveEdge-Net
 
 # WaveEdge-Net
 
-![WaveEdge-Net Framework](./figures/framework.png)
+![WaveEdge-Net Framework](framework.png)
 
 **"WaveEdge-Net: Hybrid Wavelet Attention and Edge-Aware Enhancement for Automatic Tumor Segmentation"**
 
